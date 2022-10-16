@@ -1,0 +1,15 @@
+C:\Users\tahmi\Desktop\final_project\project\bin\Debug\net6.0\project.exe
+C:\Users\tahmi\Desktop\final_project\project\bin\Debug\net6.0\project.deps.json
+C:\Users\tahmi\Desktop\final_project\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\tahmi\Desktop\final_project\project\bin\Debug\net6.0\project.dll
+C:\Users\tahmi\Desktop\final_project\project\bin\Debug\net6.0\project.pdb
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.dll
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.pdb
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\tahmi\Desktop\final_project\project\obj\Debug\net6.0\ref\project.dll
