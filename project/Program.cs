@@ -11,3 +11,12 @@ for(int i=0; i<count; i++)
     str = Console.ReadLine();
     array[i] = str;
 }
+
+string [] newArray = new string [count];
+for(int i=0; i<array.Length; i++)
+{
+    if(array[i].Length<=3)
+    {
+        newArray[i]=array[i];
+    }
+}
