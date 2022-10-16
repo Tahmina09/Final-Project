@@ -5,3 +5,9 @@ string [] array = new string [count];
 string str = String. Empty;
 Console.WriteLine();
 
+for(int i=0; i<count; i++)
+{
+    Console.WriteLine("Введите строку: ");
+    str = Console.ReadLine();
+    array[i] = str;
+}
