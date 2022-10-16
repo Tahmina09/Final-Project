@@ -20,3 +20,17 @@ for(int i=0; i<array.Length; i++)
         newArray[i]=array[i];
     }
 }
+
+void PrintArray(string [] arr)
+{
+    for(int i=0; i<arr.Length; i++)
+    {
+        Console.Write($"{arr[i]} ");
+    }
+    Console.WriteLine();
+}
+
+Console.WriteLine();
+PrintArray(array);
+Console.WriteLine();
+PrintArray(newArray);
