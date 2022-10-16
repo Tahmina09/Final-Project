@@ -31,6 +31,4 @@ void PrintArray(string [] arr)
 }
 
 Console.WriteLine();
-PrintArray(array);
-Console.WriteLine();
 PrintArray(newArray);
